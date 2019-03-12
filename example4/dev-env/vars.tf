@@ -1,1 +1,0 @@
-/media/psf/Home/Workspace/personal/code/terraform-examples-auth/vars.tf
